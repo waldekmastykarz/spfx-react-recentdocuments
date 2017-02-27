@@ -1,0 +1,10 @@
+{
+  "solution": {
+    "name": "react-recentdocuments-service-client-side-solution",
+    "id": "bed06058-d12f-4cb7-991c-bc02c5d742b8",
+    "version": "1.0.0.0"
+  },
+  "paths": {
+    "zippedPackage": "solution/react-recentdocuments-service.sppkg"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "libraryName": "react-recentdocuments-service",
+    "framework": "react",
+    "version": "1.0.0",
+    "libraryId": "bed06058-d12f-4cb7-991c-bc02c5d742b8"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "entries": [
+    {
+      "entry": "./lib/webparts/recentDocuments/RecentDocumentsWebPart.js",
+      "manifest": "./src/webparts/recentDocuments/RecentDocumentsWebPart.manifest.json",
+      "outputPath": "./dist/recent-documents.bundle.js"
+    },
+    {
+      "entry": "./lib/webparts/recentDocument/RecentDocumentWebPart.js",
+      "manifest": "./src/webparts/recentDocument/RecentDocumentWebPart.manifest.json",
+      "outputPath": "./dist/recent-document.bundle.js"
+    }
+  ],
+  "externals": {},
+  "localizedResources": {
+    "recentDocumentsStrings": "webparts/recentDocuments/loc/{locale}.js",
+    "recentDocumentStrings": "webparts/recentDocument/loc/{locale}.js"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "entries": [
+    {
+      "entry": "./lib/services/documentsService/DocumentsService.js",
+      "manifest": "./src/services/documentsService/react-recentdocuments-service.manifest.json",
+      "outputPath": "./dist/react-recentdocuments-service.js"
+    }
+  ],
+  "externals": {},
+  "localizedResources": {
+  }
+}

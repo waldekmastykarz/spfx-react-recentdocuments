@@ -1,0 +1,9 @@
+{
+  "$schema": "../../../node_modules/@microsoft/sp-module-interfaces/lib/manifestSchemas/jsonSchemas/clientSideComponentManifestSchema.json",
+
+  "id": "69b1aacd-68f2-4147-8433-8efb08eae331",
+  "alias": "DocumentsService",
+  "componentType": "Library",
+  "version": "0.0.1",
+  "manifestVersion": 2
+}

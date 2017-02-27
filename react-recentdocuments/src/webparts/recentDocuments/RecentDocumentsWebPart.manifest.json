@@ -1,0 +1,20 @@
+{
+  "$schema": "../../../node_modules/@microsoft/sp-module-interfaces/lib/manifestSchemas/jsonSchemas/clientSideComponentManifestSchema.json",
+
+  "id": "c9469658-b7db-4842-a93f-a6cc68364294",
+  "alias": "RecentDocumentsWebPart",
+  "componentType": "WebPart",
+  "version": "0.0.1",
+  "manifestVersion": 2,
+
+  "preconfiguredEntries": [{
+    "groupId": "c9469658-b7db-4842-a93f-a6cc68364294",
+    "group": { "default": "Under Development" },
+    "title": { "default": "Recent documents" },
+    "description": { "default": "Shows recently modified documents" },
+    "officeFabricIconFontName": "Page",
+    "properties": {
+      "startFrom": 0
+    }
+  }]
+}
